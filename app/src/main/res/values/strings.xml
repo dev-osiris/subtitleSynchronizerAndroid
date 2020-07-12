@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SubtitleSynchronizer</string>
+    <string name="invalidInput">Invalid input!</string>
+    <string name="chooseFile">choose a file!</string>
+    <string name="done">DONE &#10004;</string>
+    <string name="tooMuchDecrease">Too much decrease in time</string>
+    <string name="onlySrtFiles">file format not supported, only .srt files can be edited</string>
+    <string name="title_activity_about">aboutActivity</string>
+
+</resources>
